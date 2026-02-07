@@ -1,7 +1,7 @@
-##Priyadharshini B  
-###Data Analyst | python developer | Front-end basics
+## Priyadharshini B  
+### Data Analyst | python developer | Front-end basics
 
-Hey, I’m **bold**Priyadharshini**bold**. I work mostly with *italic*Python*italic* and I’m interested in *italic*data analytics*italic* and *italic*data science*italic*.Currently, I’m learning, practicing, and building small projects to improve my skills.
+Hey, I’m **Priyadharshini**. I work mostly with *Python* and I’m interested in *data analytics* and *data science*.Currently, I’m learning, practicing, and building small projects to improve my skills.
 
 
 ## 🌐 Socials:
